@@ -1,3 +1,4 @@
+// Mapa apresentado no Ciclo de Janeiro 2025
 // mapscreen teste na versão alfa em javascript para importar o mapa em javascript
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, Modal, TouchableOpacity, ScrollView } from 'react-native';
